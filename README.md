@@ -29,7 +29,7 @@ numbers = int(input())
 /*
 ```
 ### Output 
-![git log](Screenshot.png)
+![git log](Screenshot2.png)
 
 
 ## Result:
